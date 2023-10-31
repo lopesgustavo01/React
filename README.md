@@ -1,2 +1,2 @@
 # React
- Proetos de react
+ Projetos de estudo em react
